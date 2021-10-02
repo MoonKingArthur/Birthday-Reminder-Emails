@@ -1,0 +1,39 @@
+body {
+    background-color: #FF7978
+}
+main {
+    /* background-color: whitesmoke; */
+    /* border-radius: 10px; */
+    display: flex;
+    height: 800px;
+    width:80vw;
+    align-items:;
+    margin: 2rem auto;
+}
+
+h1  {
+    font-size: 4rem;
+    color: whitesmoke;
+    font-weight: 700;
+    line-height: .9;
+}
+
+.call-to-action {
+    color: whitesmoke;
+}
+
+.left-half {
+    /*background-color: thistle;*/
+    padding: 180px 40px 40px 40px;
+    width: 55%;
+    border-radius: 50%;
+
+
+}
+
+.right-half {
+    background-color: white;
+    border-radius: 10px;
+    padding: 180px 40px 40px 40px;
+    width: 45%;
+}
